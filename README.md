@@ -19,4 +19,4 @@ losses, total number of children ever born and pregnancy losses.
 
 # Task:
 
-This is a typical prediction/classification problem. We seek to predict/classify the birth weight of an unborn child using parameters such as mother's age, number of pregnancy, place of residence etc.
+This is a typical prediction/classification problem. We seek to predict/classify the birth weight of an unborn child using variables such as mother's age, number of pregnancy, place of residence etc.
